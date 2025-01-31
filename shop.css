@@ -1,0 +1,102 @@
+
+*{
+    margin: 0;  padding: 0;box-sizing: border-box;
+}
+.cantr{
+    background-color: rgb(9, 9, 9);
+    color: white;
+    height: 75px;
+    }
+    
+    ul li{ 
+        display: inline;
+        font-size: 22px;
+        text-decoration: none;
+        outline: none;
+        color: beige;
+    
+    }
+    .size{
+        font-size: 50px;
+        color: yellow;
+    }
+    .can{
+        margin-left: 100px;
+        
+    }
+    button{
+        font-size: 24px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input{
+        margin-left: 400px;
+        font-size: 24px;
+        border-radius: 5px;
+    }
+   .shop img{
+    background-size: cover;
+    width: 100%;
+   }
+   .lkj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .ytr{
+    border: 1px solid black;
+    width: 550px;
+    height: 300px;
+    padding-top: 40px;
+    text-align: center;
+    margin: 15px;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+   }
+   .ytr button{
+    width: 300px;
+   }
+   .ytr button:hover{
+    background-color: blue;
+    color: white;
+    transition: 1s;
+   }
+   .bvc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .mnj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .dsa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .footer{
+    background-color: rgb(2, 2, 44);
+ }
+ .hjk h2{
+    text-align: center;
+    color: white;
+ }  
+ .zxc{
+    text-align: center;
+    color: white;
+ }
+ .you {
+    width: 100px;
+ }
+ .tik{
+    width: 140px;
+ }
+ .fac{
+    width: 190px;
+ }
+ .toll{
+    text-align: center;
+ }

@@ -1,0 +1,116 @@
+*{
+    margin: 0;  padding: 0;box-sizing: border-box;
+}
+.cantr{
+    background-color: rgb(9, 9, 9);
+    color: white;
+    height: 75px;
+    }
+    
+    ul li{ 
+        display: inline;
+        font-size: 22px;
+        text-decoration: none;
+        outline: none;
+        color: beige;
+    
+    }
+    .size{
+        font-size: 50px;
+        color: yellow;
+    }
+    .can{
+        margin-left: 100px;
+        
+    }
+    button{
+        font-size: 24px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input{
+        margin-left: 400px;
+        font-size: 24px;
+        border-radius: 5px;
+    }
+    .bac{
+        background-image: url(./bac.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+            height: 70vh;
+            width: 100%;
+            border: 1px solid black;
+    }
+    .asd{
+        text-align: center;
+        padding-top: 230px;
+        color: rgb(9, 9, 9);
+        text-transform: uppercase;
+        color: rgb(226, 43, 211);
+    }
+    .asd h4{
+        font-size: 20px;
+    }
+    .asd h1{
+        font-size: 50px;
+    }
+    .asd p{
+        font-size: 20px;
+    }
+    .cvb{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .lotte{
+        width: 250px;
+        height: 300px;
+        border: 1px solid black;
+        border-radius: 10px;
+        box-shadow: 0px 0px 4px 5px rgb(17, 131, 135);
+       text-align: center;
+       margin: 20px;
+       transition: all 1s;
+    }
+    .lotte:hover{
+        transform: scale(1.1);
+    }
+    .cvb img{
+        width: 200px;
+        height: 200px;
+    }
+    .poi{
+       text-align: center;
+       background-size: cover;
+        box-shadow: 0px 0px 4px 5px rgb(3, 95, 107);
+    }
+    .lk h1{
+        text-align: center;
+    }
+    .lk p{
+        text-align: center;
+    }
+    .footer{
+        background-color: rgb(2, 2, 44);
+     }
+     .hjk h2{
+        text-align: center;
+        color: white;
+     }
+     
+     .zxc{
+        text-align: center;
+        color: white;
+     }
+     .you {
+        width: 100px;
+     }
+     .tik{
+        width: 140px;
+     }
+     .fac{
+        width: 190px;
+     }
+     .toll{
+        text-align: center;
+     }

@@ -1,0 +1,107 @@
+*{
+    margin: 0;  padding: 0;box-sizing: border-box;
+}
+.cantr{
+    background-color: rgb(9, 9, 9);
+    color: white;
+    height: 75px;
+    }
+    
+    ul li{ 
+        display: inline;
+        font-size: 22px;
+        text-decoration: none;
+        outline: none;
+        color: beige;
+    
+    }
+    .size{
+        font-size: 50px;
+        color: yellow;
+    }
+    .can{
+        margin-left: 100px;
+        
+    }
+    button{
+        font-size: 24px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input{
+        margin-left: 400px;
+        font-size: 24px;
+        border-radius: 5px;
+    }
+    .lpo img{
+        background-repeat: no-repeat;
+        background-size: cover;
+            height: 70vh;
+            width: 100%;
+            border: 1px solid black;
+    }
+    .kam{
+        width: 200px;
+    }
+    .now{
+        border: 1px solid red;
+        width: 50px;
+        margin-top: 10px;
+        margin-left: 10px;
+        background-color: red;
+    }
+    .fgh{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .sabze{
+        width: 280px;
+        height: 370px;
+        border: 1px solid black;
+        text-align: center;
+        margin: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 4px 5px rgb(39, 133, 145);
+        transition: all 1s;
+    }
+    .sabze:hover{
+        transform: scale(1.1);
+    }
+    .bro{
+        border: 1px solid rgb(94, 188, 6);
+        width: 50px;
+        margin-top: 10px;
+        margin-left: 10px;
+        background-color: rgb(94, 188, 6);  
+    }
+    .nhj{
+        text-align: center;
+    }
+    .sur{
+        width: 200px;
+    }
+    .footer{
+        background-color: rgb(2, 2, 44);
+     }
+     .hjk h2{
+        text-align: center;
+        color: white;
+    }
+     .zxc{
+        text-align: center;
+        color: white;
+     }
+     .you {
+        width: 100px;
+     }
+     .tik{
+        width: 140px;
+     }
+     .fac{
+        width: 190px;
+     }
+     .toll{
+        text-align: center;
+     }
+     
